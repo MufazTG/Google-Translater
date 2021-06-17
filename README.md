@@ -30,6 +30,6 @@
 
 Support
 
-**[Mo Tech Group](https://telegram.dog/Mo_Tech_Group)**
+**[BX Support](https://telegram.dog/BX_Support)**
 
-**[Mo Tech Channel](https://telegram.dog/Mo_Tech_YT)**
+**[BX Updates](https://telegram.dog/Bx_Botz)**
