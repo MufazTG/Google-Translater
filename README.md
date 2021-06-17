@@ -5,24 +5,12 @@
   </a>
 </p>
 
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/MoTechYT/MT-Google-Translater/stargazers">
-    <img src="https://img.shields.io/github/stars/MoTechYT/MT-Google-Translater?style=social">
 
-  </a>
-  
-  <a href="https://github.com/MoTechYT/MT-Google-Translater/fork">
-    <img src="https://img.shields.io/github/forks/MoTechYT/MT-Google-Translater?label=Fork&style=social">
-
-  </a>  
-</p>
-
+## Deploy To Heroku
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/MoTechYT/MT-Google-Translater/tree/main">
+<a href="https://heroku.com/deploy?template=https://github.com/MufazTG/Google-Translater/tree/main">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
