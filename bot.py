@@ -35,8 +35,8 @@ def start(client, message):
             message.reply_text(text =f"🙋‍♂️ Hello **{message.from_user.first_name }\n **I am simple Google Translater Bot** \n\n `I can translate any language to you selected language`\n\n**Available Language** \n#Hindi #Kannada #Malayalam\n#Tamil #Telugu #English\n#Urdu #Panjabi #Spanish\n\nSupport @BXSupport",reply_to_message_id = message.message_id , parse_mode="markdown", reply_markup=InlineKeyboardMarkup(
             [
                 [
-                   InlineKeyboardButton("🔊 Update Channel🔊" ,url="https://t.me/Mo_Tech_YT")],
-                [InlineKeyboardButton("Support Group", url="https://t.me/BxSupport")]
+                   InlineKeyboardButton("🔊 Update Channel🔊" ,url="https://t.me/Mo_Tech_YT"),
+                   InlineKeyboardButton("Support Group", url="https://t.me/BxSupport")]
            ] 
         ) )
 	
