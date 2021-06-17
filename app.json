@@ -1,5 +1,5 @@
 {
-    "name": "Google Translater",
+    "name": "BX Google Translater",
     "description": "Bot can translate any language to you selected language",
     "repository": "https://github.com/lntechnical2/MT-Google-Translater",
     "keywords": ["Google Translater", "pyrogram", "telegram bot"],
@@ -8,10 +8,10 @@
             "description": "Your Bot token from @Botfather"
         },
         "APP_ID": {
-            "description": "Your API_ID from https://my.telegram.org/apps or @MT_MyTelegramOrg_Bot"
+            "description": "Your API_ID from https://my.telegram.org/apps"
         },
         "API_HASH": {
-            "description": "Your API_HASH from https://my.telegram.org/apps or @MT_MyTelegramOrg_Bot"
+            "description": "Your API_HASH from https://my.telegram.org/apps"
         }
     },
     "buildpacks": [
